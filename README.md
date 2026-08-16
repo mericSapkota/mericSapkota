@@ -5,6 +5,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Developer;Spring+Boot+%7C+React+Developer;Web3+%26+Smart+Contract+Builder;Python+Automation+%26+AI+Enthusiast;Always+Learning+%26+Creating">
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mericSapkota/mericSapkota/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mericSapkota/mericSapkota/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
 <img src="https://raw.githubusercontent.com/mericSapkota/mericSapkota/0a628a51e1e31ab12526bfdb7f2e2d3faaefcba8/yo-contribution-graph.svg"
 ---
 
