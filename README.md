@@ -10,6 +10,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mericSapkota/mericSapkota/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mericSapkota/mericSapkota/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mericSapkota/mericSapkota/output/breakout-contribution-graph.svg">
+  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/breakout-contribution-graph.svg">
+</picture>
 <img src="https://raw.githubusercontent.com/mericSapkota/mericSapkota/0a628a51e1e31ab12526bfdb7f2e2d3faaefcba8/yo-contribution-graph.svg"
 ---
 
